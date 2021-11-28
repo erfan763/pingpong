@@ -1,0 +1,22 @@
+.example1{
+    max-width: 270px
+}
+.example2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loser{
+    color: red;
+}
+.winner{
+    color: green;
+}
+.resetbuttom{
+   background-color: black;
+   color: white;
+}
+.resetbuttom:hover{
+    border: white 1px double;
+    border-radius: 5px;
+}
