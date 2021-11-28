@@ -1,0 +1,5 @@
+let player1 = document.querySelector("#player1")
+let player2 = document.querySelector("#player2")
+let reset = document.querySelector("#reset")
+let scoreplayer1 = document.querySelector("#scoreplayer1")
+let scoreplayer2 = document.querySelector("#scoreplayer2")
