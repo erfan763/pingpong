@@ -1,0 +1,20 @@
+span {
+  font-size: larger;
+}
+.container {
+  max-width: 299px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+button {
+  margin-bottom: 15px;
+}
+img {
+  margin-top: 15px;
+}
+.winer {
+  color: green;
+}
+.loser {
+  color: red;
+}
